@@ -154,7 +154,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "hassiumwh"
+name = "hassium"
 version = "0.1.0"
 dependencies = [
  "bcrl-rs",
