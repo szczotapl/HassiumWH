@@ -1,13 +1,19 @@
-<center><h1>Hassium Wallhack</h1>
-<center><img src="./assets/ui.png">
+## Hassium Wallhack 
+![alt text](assets/ui.png)
+**A simple wallhack for Linux systems.**
 
-<center>Simple wallhack made by patching a single byte.
+**Note:** This wallhack is specifically designed for Linux systems. It will **not** function on any other operating system.
 
-<center><b>LINUX ONLY: THIS WILL NOT WORK ON ANYTHING BUT LINUX.</b>
+**How it works:**
 
-<center><h1>Ingame screenshot</h1>
-<center><img src="./assets/ingame.png">
+This wallhack modifies game behavior by treating every player as a friendly entity. 
+This results in the game displaying:
 
-<center><h2>How does it work?</h2>
-<center><h3>The game treats every player as a friendly. This means the game shows the overhead indicator and used weapon on enemies.</h3>
-<center>Made with 💖 in Poland
+* **Overhead indicators** for all players, including enemies.
+* **Used weapon information** for all players, including enemies.
+
+**Created with ❤️ in Poland**
+
+![alt text](assets/ingame.png)
+
+**Disclaimer:** This wallhack may violate the game's terms of service. Use at your own risk.
