@@ -1,5 +1,0 @@
-target/
-**/target/
-*.swp
-.DS_Store
-logs/
