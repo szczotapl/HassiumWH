@@ -1,8 +1,10 @@
 ## Hassium Wallhack 
 ![alt text](assets/ui.png)
+
 **A simple wallhack for Linux systems.**
 
 **Note:** This wallhack is specifically designed for Linux systems. It will **not** function on any other operating system.
+
 **How it works:**
 
 This wallhack modifies game behavior by treating every player as a friendly entity. 
